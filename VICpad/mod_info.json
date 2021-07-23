@@ -1,0 +1,8 @@
+{
+	"id":"PT_VICpad",
+	"name":"VICpad",
+	"version":"v1.0.0",
+	"description":"VICpad > TRIPAD",
+	"gameVersion":"0.95a-RC15",
+    "utility": "true",
+}

@@ -1,0 +1,14 @@
+{
+	#"color":[155,255,0,155],
+	"color":[255,162,0,127],
+	
+	"baseUIColor":[255,162,0,255],
+	"darkUIColor":[35,33,30,175],
+	"gridUIColor":[255,162,0,75],
+	"flags":[
+		{
+			"logo":"graphics/factions/VICpad_crest_eagle.png.png",
+			"crest":"graphics/factions/VICpad_flag_eagle.png",
+		},
+		]
+},
